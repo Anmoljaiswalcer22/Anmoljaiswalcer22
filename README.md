@@ -59,12 +59,14 @@ struct Anmol {
 
 
 
-| Project | Highlights |
+| | Project | Highlights |
 |---|---|
+| 🏠 **[RealEstate](https://github.com/Anmoljaiswalcer22/RealEstate)** | Property listing web app · browse and search listings · JavaScript |
+| 🤝 **[PeerConnect](https://github.com/Anmoljaiswalcer22/PeerConnect)** | Platform to connect and interact with peers · JavaScript |
+| 🔗 **[URL Shortener](https://github.com/Anmoljaiswalcer22/URL--Shortener)** | Long URL → short code and back · hashing for fast lookups · C++ |
 | 🧩 **[Rubik's Cube Solver](https://github.com/Anmoljaiswalcer22/Rubrik-s-Cube-Solver)** | Korf's IDA* with an 88M-state corner pattern DB (built in ~4 s) · 3 cube models · bitboard at **250M moves/s** · 234 unit tests |
 | ⚡ **[3-Wheeler EV Adoption](https://github.com/Anmoljaiswalcer22/3-Wheeler-EV-Adoption-Analysis)** | Market sizing & CAGR · state concentration (HHI) · charging vs adoption (Spearman) · driver payback vs CNG |
-| 🏠 **[RealEstate](https://github.com/Anmoljaiswalcer22/RealEstate)** | _Add 2–3 highlights: what it predicts/analyses, data used, key result_ |
-
+| 🏦 **[Bank Loan Analysis](https://github.com/Anmoljaiswalcer22/Bank_Loan_analysis)** | EDA on bank loan data · drivers of approval and default · Python, pandas, Jupyter |
 ---
 
 ## 📊 GitHub stats
