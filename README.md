@@ -57,17 +57,7 @@ struct Anmol {
 
 ## 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/Anmoljaiswalcer22/rRubrik-s-Cube-Solver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmoljaiswalcer22&repo=rubiks-cube-solver&theme=tokyonight&hide_border=true" alt="Rubik's Cube Solver"/>
-  </a>
-  <a href="https://github.com/Anmoljaiswalcer22/3-Wheeler-EV-Adoption-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmoljaiswalcer22&repo=3-Wheeler-EV-Adoption-Analysis&theme=tokyonight&hide_border=true" alt="EV Analysis"/>
-  </a>
-  <a href="https://github.com/Anmoljaiswalcer22/RealEstate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmoljaiswalcer22&repo=RealEstate&theme=tokyonight&hide_border=true" alt="RealEstate"/>
-  </a>
-</p>
+
 
 | Project | Highlights |
 |---|---|
