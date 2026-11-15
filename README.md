@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anmol-jaiswal-085410253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:anmol.jaiswal.cer22@itbhu.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://myportfolio-eight-beta-22.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=Anmoljaiswalcer22&label=Profile%20views&color=2c9fd9&style=for-the-badge" alt="views"/>
 </p>
 
