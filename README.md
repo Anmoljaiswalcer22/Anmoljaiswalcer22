@@ -59,7 +59,7 @@ struct Anmol {
 
 
 
-| | Project | Highlights |
+| Project | Highlights |
 |---|---|
 | 🏠 **[RealEstate](https://github.com/Anmoljaiswalcer22/RealEstate)** | Property listing web app · browse and search listings · JavaScript |
 | 🤝 **[PeerConnect](https://github.com/Anmoljaiswalcer22/PeerConnect)** | Platform to connect and interact with peers · JavaScript |
