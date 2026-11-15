@@ -58,7 +58,7 @@ struct Anmol {
 ## 🚀 Featured projects
 
 <p align="center">
-  <a href="https://github.com/Anmoljaiswalcer22/rubiks-cube-solver">
+  <a href="https://github.com/Anmoljaiswalcer22/rRubrik-s-Cube-Solver">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmoljaiswalcer22&repo=rubiks-cube-solver&theme=tokyonight&hide_border=true" alt="Rubik's Cube Solver"/>
   </a>
   <a href="https://github.com/Anmoljaiswalcer22/3-Wheeler-EV-Adoption-Analysis">
