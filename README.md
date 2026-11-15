@@ -71,7 +71,7 @@ struct Anmol {
 
 | Project | Highlights |
 |---|---|
-| 🧩 **[Rubik's Cube Solver](https://github.com/Anmoljaiswalcer22/rubiks-cube-solver)** | Korf's IDA* with an 88M-state corner pattern DB (built in ~4 s) · 3 cube models · bitboard at **250M moves/s** · 234 unit tests |
+| 🧩 **[Rubik's Cube Solver](https://github.com/Anmoljaiswalcer22/Rubrik-s-Cube-Solver)** | Korf's IDA* with an 88M-state corner pattern DB (built in ~4 s) · 3 cube models · bitboard at **250M moves/s** · 234 unit tests |
 | ⚡ **[3-Wheeler EV Adoption](https://github.com/Anmoljaiswalcer22/3-Wheeler-EV-Adoption-Analysis)** | Market sizing & CAGR · state concentration (HHI) · charging vs adoption (Spearman) · driver payback vs CNG |
 | 🏠 **[RealEstate](https://github.com/Anmoljaiswalcer22/RealEstate)** | _Add 2–3 highlights: what it predicts/analyses, data used, key result_ |
 
@@ -79,24 +79,14 @@ struct Anmol {
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anmoljaiswalcer22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmoljaiswalcer22&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anmoljaiswalcer22&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmoljaiswalcer22&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
-</p>
 
-## 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anmoljaiswalcer22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="trophies"/>
-</p>
+
 
 ## 🐍 Contribution snake
 
