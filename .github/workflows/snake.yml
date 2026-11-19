@@ -2,7 +2,7 @@ name: generate-snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # every day
+    - cron: "0 * * *"   # every day
   workflow_dispatch:       # lets you run it by hand from the Actions tab
   push:
     branches: [main]
